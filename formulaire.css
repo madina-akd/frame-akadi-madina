@@ -1,0 +1,15 @@
+body{
+	background-color: lightpink;
+}
+label{
+	color:darkblue;
+}
+body.A{
+	background-color: aquamarine;
+}
+body.img{
+	background-color: black;
+}
+body.text{
+	border-width: 1000px;
+}

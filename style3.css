@@ -1,0 +1,17 @@
+table{
+	border-collapse: collapse;
+	border-width: 20px;
+}
+.A{
+    font-size: 30px;
+    color: blue;
+    background-color:lightyellow;
+}
+td
+{
+ border: 3px solid black;
+ font-size: 25px;
+}
+.f{
+	background-color: red;
+}
